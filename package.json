@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/gestao-paroquial/religare-back-end/issues"
   },
-  "homepage": "https://github.com/gestao-paroquial/religare-back-end#readme"
+  "homepage": "https://github.com/gestao-paroquial/religare-back-end#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "nodemon": "^1.18.3"
+  }
 }
